@@ -6,9 +6,9 @@
 <body>
 <h1 style="color:red">Giới thiệu về bản thân:</h1>
 <h2 style="color: green">Tôi tên là Bùi Tố Thành Hưng.</h2>
-<h4>click hình ảnh để vào link facebook của tôi.</h4>
+<h4>Click hình ảnh để vào link facebook của tôi.</h4>
 <a
- href="https://www.facebook.com/thanhhung250202"><img width="200px" height="auto" src="https://www.facebook.com/photo?fbid=983731272600218&set=a.106118710361483">
+ href="https://www.facebook.com/thanhhung250202"><img width="200px" height="auto" src="image/327757050_512235901047295_5558704520414450723_n.jpg">
 </a>
 <ul>
 	<li>Sinh:25/02/2002</li>
@@ -16,6 +16,6 @@
 	<li>Quê quán:Đông Triều, Quảng Ninh</li>
 	<li>Chiều Cao:1m68</li>
 	<li>Cân Nặng:Không tiết lộ</li>
-	<li>Sở thích:nghe nhạc,xem phim,chơi game<br><p>Bài hát tôi hay nghe:</p><iframe width="560" height="315" src="https://www.youtube.com/watch?v=igoE062z76U&pp=ygUEZ2nDsw%3D%3D" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></li>
+	<li>Sở thích:nghe nhạc, xem phim, chơi game, timg hiểu về công nghệ<br><p>Bài hát tôi hay nghe:</p><iframe width="560" height="315" src="https://www.youtube.com/watch?v=igoE062z76U&pp=ygUEZ2nDsw%3D%3D" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></li>
 </ul>
 </body>
