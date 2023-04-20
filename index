@@ -6,10 +6,15 @@
 <body>
 <h1 style="color:red">Giới thiệu về bản thân:</h1>
 <h2 style="color: green">Tôi tên là Bùi Tố Thành Hưng.</h2>
-<h4>Click hình ảnh để vào link facebook của tôi.</h4>
+<h4>Click hình ảnh để vào link Facebook của tôi.</h4>
 <a
  href="https://www.facebook.com/thanhhung250202"><img width="200px" height="auto" src="image/327757050_512235901047295_5558704520414450723_n.jpg">
 </a>
+<h4>Click hình ảnh để vào link GitHub của tôi.</h4>
+<a
+ href="https://github.com/Hung25"><img width="200px" height="auto" src="image/327757050_512235901047295_5558704520414450723_n.jpg">
+</a>
+
 <ul>
 	<li>Sinh:25/02/2002</li>
 	<li>Nơi ở hiện tại: Long Biên, Hà Nội</li>
